@@ -1,10 +1,10 @@
-﻿using Razer.Emily.Common;
+﻿using System;
+using System.Windows.Forms;
+using Razer.Emily.Common;
 using Razer.Emily.UI;
 using Razer.Storage;
-using System;
-using System.Windows.Forms;
 
-namespace BetterSynapse {
+namespace ItzWarty.MiniSynapse {
    class Program {
       [STAThread]
       static void Main() {

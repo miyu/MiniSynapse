@@ -7,8 +7,8 @@
     <ProjectGuid>{69ACE22E-8599-4DD8-A53C-C0D320015F7A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BetterSynapse</RootNamespace>
-    <AssemblyName>BetterSynapse</AssemblyName>
+    <RootNamespace>ItzWarty.MiniSynapse</RootNamespace>
+    <AssemblyName>ItzWarty.MiniSynapse</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

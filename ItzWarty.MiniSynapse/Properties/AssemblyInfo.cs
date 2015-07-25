@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BetterSynapse")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ItzWarty.MiniSynapse")]
+[assembly: AssemblyDescription("Runs Razer Device Configuration")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BetterSynapse")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyProduct("ItzWarty.MiniSynapse")]
+[assembly: AssemblyCopyright("Copyright © ItzWarty 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

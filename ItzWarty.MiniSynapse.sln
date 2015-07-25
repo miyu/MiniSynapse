@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSynapse", "BetterSynapse\BetterSynapse.csproj", "{69ACE22E-8599-4DD8-A53C-C0D320015F7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItzWarty.MiniSynapse", "ItzWarty.MiniSynapse\ItzWarty.MiniSynapse.csproj", "{69ACE22E-8599-4DD8-A53C-C0D320015F7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
