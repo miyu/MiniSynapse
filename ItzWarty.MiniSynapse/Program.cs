@@ -12,7 +12,7 @@ namespace ItzWarty.MiniSynapse {
          mainStorage.Initialize(Storage_Project.Emily);
 
          var isLoggedIn = mainStorage.TryLastLogin();
-         if (!isLoggedIn) {
+         if (isLoggedIn != LoginStatus.Success) {
             MessageBox.Show("Cannot configure your Razer devices - you need to login through Razer Synapse first.");
          } else {
             var deviceManager = new RzDeviceManager();
@@ -30,6 +30,8 @@ namespace ItzWarty.MiniSynapse {
                var pluginDevice = commonConfigLoader.FindDevice(device.PID);
                Console.WriteLine("Configured device: " + pluginDevice.Name);
             }
+
+            MessageBox.Show("Razer Devices Loaded.\t\t","Mini Synapse", MessageBoxButtons.OK, MessageBoxIcon.Information);
          }
       }
    }
